@@ -1,7 +1,7 @@
 var xtend = require('xtend');
 var through = require('through2');
 var browserify = require('browserify');
-var browserifyCache = require('browserify-cache-api');
+var browserifyCache = require('browserify-cache-api-fix');
 
 module.exports = browserifyIncremental;
 browserifyIncremental.browserify = browserify;

@@ -1,6 +1,6 @@
 {
   "name": "browserify-incremental-fork",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Fast incremental rebuilds for browserify",
   "main": "index.js",
   "bin": {
