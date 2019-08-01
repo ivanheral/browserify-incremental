@@ -1,6 +1,6 @@
 {
   "name": "browserify-incremental-fork",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "description": "Fast incremental rebuilds for browserify",
   "main": "index.js",
   "bin": {
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "JSONStream": "^0.10.0",
-    "browserify-cache-api-fix": "^3.0.1",
+    "browserify-cache-api-fix": "^3.0.2",
     "through2": "^2.0.0",
     "xtend": "^4.0.0"
   },
